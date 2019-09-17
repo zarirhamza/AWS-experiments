@@ -1,0 +1,10 @@
+http://wildrydes-zarir-hamza.s3-website-us-east-1.amazonaws.com
+
+Pool Id us-east-1_IuYeonpM0
+Pool ARN arn:aws:cognito-idp:us-east-1:119764344216:userpool/us-east-1_IuYeonpM0
+
+app client id 6gn842du2irs42mp3jkt7632th
+
+dynamodb - Amazon Resource Name (ARN)	arn:aws:dynamodb:us-east-1:119764344216:table/Rides
+
+ Invoke URL: https://0hjdozb3vf.execute-api.us-east-1.amazonaws.com/prod
